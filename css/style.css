@@ -1,0 +1,141 @@
+/*font-family: 'PT Sans', sans-serif;*/
+body{
+font-family: 'PT Sans', sans-serif;
+color: #898989;
+}
+header{
+background-color: #fcdb00;
+padding: 15px 0;
+}
+/*menu*/
+.menubar{
+}
+.menubar ul li a{
+padding: 0 33px !important;
+font-size: 22px;
+font-weight: 700;
+}
+/*menu end*/
+/*slider start*/
+.slider{
+background-color: #fcdb00;
+padding-bottom: 100px;
+padding-top: 20px;
+}
+.inspiration{
+margin-top: 50px;
+}
+.inspiration h1{
+font-weight: 700;
+font-size: 32px;
+color: #010101;
+}
+.inspiration h2{
+font-weight: 400;
+font-size: 20px;
+color: #313841;
+}
+.inspiration p{
+font-size: 16px;
+color: #555555;
+}
+.inspiration ul li i{
+font-size: 45px;
+color: #010101;
+margin-right: 20px;
+}
+.c-ind {
+bottom: -90px;
+}
+.c-ind li {
+width: 15px;
+height: 15px;
+border-radius: 50%;
+}
+/*slider end*/
+/*service start*/
+.service{
+padding-top: 100px;
+padding-bottom: 90px;
+}
+.common-titel{
+/*margin-bottom: 	70px;*/
+}
+.common-titel h1{
+font-size: 32px;
+font-weight: 700;
+color: #010101;
+}
+.common-titel p{
+font-size: 20px;
+color: #313841;
+padding: 0 55px;
+}
+.single-item{
+margin-top: 70px;
+}
+.icon i{
+font-size: 45px;
+color: #010101;
+}
+.single-content{
+}
+.single-content h1{
+font-size: 22px;
+font-weight: 400;
+color: #010101;
+}
+.single-content p{
+letter-spacing: 1px;
+font-size: 15px;
+font-weight: 400;
+}
+/*service start*/
+/*contact start*/
+.contact{
+background-color: #010101;
+padding-top: 100px;
+padding-bottom: 55px;
+}
+.yellow {
+color: #fcdb00 !important;
+}
+.aesh{
+color: #898989 !important;
+}
+.for-form{
+margin-left: 15%;
+}
+.p_l_0{
+padding-left: 0;
+margin-top: 20px;
+}
+.cust-color{
+background-color: #fcdb00;
+border: none;
+}
+.social-icon{
+padding-top: 45px;
+padding-bottom: 45px;
+}
+.social-icon i{
+font-size: 44px;
+padding-right: 20px;
+color: #fcdb00;
+}
+/*contact end*/
+/*footer start*/
+.footer-1 address{
+color: #ffffff;
+}
+.footer-menu{
+}
+.footer-menu ul{
+}
+.footer-menu ul li{
+list-style: none;
+}
+.footer-menu ul li a{
+color: #ffffff;
+}
+/*footer end*/

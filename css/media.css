@@ -1,0 +1,158 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header*/
+.menubar ul li a {
+    padding: 0 0px !important;
+    text-align: right;
+}
+.inspiration p {
+   text-align: justify;
+}
+.inspiration ul li i {
+    margin: 18px;
+}
+.c-ind li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+.service {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.common-titel h1 {
+    padding-bottom: 23px;
+}
+.common-titel p {
+    letter-spacing: 1px;
+}
+.single-item {
+    margin-top: 35px;
+    text-align: center;
+}
+/*form button*/
+.for-form {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.p_l_0 {
+    padding-left: 0;
+    margin-top: 20px;
+    left: 100px;
+}
+.cust-color {
+    margin-top: 19px;
+}
+/*icon*/
+.icon i {
+    margin-bottom: 25px;
+}
+/*contact*/
+.contact {
+    padding-top: 70px;
+}
+/*footer*/
+.footer-1 address {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.contact {
+    padding-top: 70px;
+}
+/*footer*/
+.footer-1 address {
+    text-align: center;
+    margin-bottom: 30px;
+}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*Header*/
+.menubar ul li a {
+    padding: 0 0px !important;
+    text-align: right;
+}
+/*slider*/
+.slider {
+    padding-top: 0px;
+}
+.inspiration p {
+    text-align: justify;
+}
+/*service*/
+.service {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.common-titel h1 {
+    padding-bottom: 23px;
+}
+.common-titel p {
+    letter-spacing: 1px;
+}
+/*single item*/
+.single-item {
+    margin-top: 35px;
+    text-align: center;
+}
+/*form button*/
+.for-form {
+    margin-left: 12%;
+    margin-right: 13%;
+}
+.cust-color {
+    margin-top: 19px;
+}
+/*icon*/
+.icon i {
+    margin-bottom: 25px;
+}
+/*contact*/
+.contact {
+    padding-top: 70px;
+}
+/*footer*/
+.footer-1 address {
+    text-align: center;
+    margin-bottom: 30px;
+}
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header*/
+.menubar ul li a {
+    padding: 0 0px !important;
+    text-align: right;
+}
+/*service*/
+.service {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+/*contact*/
+.contact {
+    padding-top: 70px;
+}
+
+/*footer*/
+.footer-1 address {
+    text-align: center;
+    margin-top: -30px;
+    margin-bottom: 35px;
+}
+
+}
+
+
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}
